@@ -1,0 +1,28 @@
+<h2>Book Admin Panel</h2>
+<form [formGroup]="bookForm" (ngSubmit)="addBook()">
+  <div>
+    <label>Title:</label>
+    <input formControlName="title" />
+    <div *ngIf="titleControl?.touched && titleControl?.invalid" style="color: red;">
+      Title is required.
+    </div>
+  </div>
+
+  <div>
+    <label>Author:</label>
+    <input formControlName="author" />
+    <div *ngIf="authorControl?.touched && authorControl?.invalid" style="color: red;">
+      Author is required.
+    </div>
+  </div>
+
+  <div>
+    <label>Genre:</label>
+    <input formControlName="genre" />
+    <div *ngIf="genreControl?.touched && genreControl?.invalid" style="color: red;">
+      Genre is required.
+    </div>
+  </div>
+
+  <button type="submit" [disabled]="bookForm.invalid">Add Book</button>
+</form>

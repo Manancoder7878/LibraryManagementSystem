@@ -1,0 +1,21 @@
+<h2>Available Books</h2>
+
+<div>
+  <input placeholder="Search by title, author, or genre" [(ngModel)]="query"/>
+  <button (click)="search()">Search</button>
+</div>
+
+<div *ngIf="books.length === 0">
+  <p>No books found.</p>
+</div>
+
+<ul *ngIf="books.length > 0">
+  <li *ngFor="let book of books">
+    <strong>{{ book.title }}</strong> by {{ book.author }} ({{ book.genre }})
+    <span 
+      [ngStyle]="{ color: book.isAvailable ? 'green' : 'red' }">
+      — {{ book.isAvailable ? 'Available' : 'Borrowed' }}
+    </span>
+  </li>
+</ul>
+

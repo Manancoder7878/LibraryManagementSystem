@@ -1,0 +1,36 @@
+<h2>Register</h2>
+<form [formGroup]="registerForm" (ngSubmit)="register()">
+  <div>
+    <label>Name:</label>
+    <input formControlName="name" />
+    <div *ngIf="nameControl?.touched && nameControl?.invalid" style="color: red;">
+      Name is required.
+    </div>
+  </div>
+
+  <div>
+    <label>Email:</label>
+    <input formControlName="email" />
+    <div *ngIf="emailControl?.touched && emailControl?.invalid" style="color: red;">
+      Valid email is required.
+    </div>
+  </div>
+
+  <div>
+    <label>Password:</label>
+    <input type="password" formControlName="password" />
+    <div *ngIf="passwordControl?.touched && passwordControl?.invalid" style="color: red;">
+      Password is required.
+    </div>
+  </div>
+
+  <div>
+    <label>Role:</label>
+    <select formControlName="role">
+      <option>User</option>
+      <option>Admin</option>
+    </select>
+  </div>
+
+  <button type="submit" [disabled]="registerForm.invalid">Register</button>
+</form>

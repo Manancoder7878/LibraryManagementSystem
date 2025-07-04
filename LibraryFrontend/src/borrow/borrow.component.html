@@ -1,0 +1,35 @@
+<h2>Borrow a Book</h2>
+<form [formGroup]="borrowForm" (ngSubmit)="borrowBook()">
+  <div>
+    <label>User ID:</label>
+    <input type="number" formControlName="userId" />
+    <div *ngIf="userIdControl?.touched && userIdControl?.invalid" style="color: red;">
+      User ID is required.
+    </div>
+  </div>
+
+  <div>
+    <label>Book ID:</label>
+    <input type="number" formControlName="bookId" />
+    <div *ngIf="bookIdControl?.touched && bookIdControl?.invalid" style="color: red;">
+      Book ID is required.
+    </div>
+  </div>
+
+  <button type="submit" [disabled]="borrowForm.invalid">Borrow Book</button>
+</form>
+
+<hr />
+
+<h2>Return a Book</h2>
+<form [formGroup]="returnForm" (ngSubmit)="returnBook()">
+  <div>
+    <label>Borrow ID:</label>
+    <input type="number" formControlName="borrowId" />
+    <div *ngIf="borrowIdControl?.touched && borrowIdControl?.invalid" style="color: red;">
+      Borrow ID is required.
+    </div>
+  </div>
+
+  <button type="submit" [disabled]="returnForm.invalid">Return Book</button>
+</form>

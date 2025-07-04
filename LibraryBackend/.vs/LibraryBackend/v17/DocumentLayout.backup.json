@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.net\\LibraryBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\model\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\LibraryBackend\\LibraryBackend\\Migrations\\20250704153000_UpdatedMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryBackend\\Migrations\\20250704153000_UpdatedMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\model\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\model\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\.net\\LibraryBackend\\LibraryBackend\\Migrations\\20250704152528_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryBackend\\Migrations\\20250704152528_newmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|d:\\.net\\librarybackend\\librarybackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D67F21B-61DC-4342-B666-1062503B8D1D}|LibraryBackend\\LibraryBackend.csproj|solutionrelative:librarybackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250704153000_UpdatedMigration.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Migrations\\20250704153000_UpdatedMigration.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Migrations\\20250704153000_UpdatedMigration.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Migrations\\20250704153000_UpdatedMigration.cs",
+              "RelativeToolTip": "LibraryBackend\\Migrations\\20250704153000_UpdatedMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:30:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Controllers\\BookController.cs",
+              "RelativeToolTip": "LibraryBackend\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:23:00.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\Borrow.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Model\\Borrow.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\Borrow.cs",
+              "RelativeToolTip": "LibraryBackend\\Model\\Borrow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:09:29.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Model\\Book.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\Book.cs",
+              "RelativeToolTip": "LibraryBackend\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:04:49.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:32:24.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\User.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Model\\User.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\User.cs",
+              "RelativeToolTip": "LibraryBackend\\Model\\User.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:03:12.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Controllers\\BorrowController.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "LibraryBackend\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:27:47.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\DTO\\LoginDto.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\DTO\\LoginDto.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\DTO\\LoginDto.cs",
+              "RelativeToolTip": "LibraryBackend\\DTO\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:22:19.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\DTO\\UserDto.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\DTO\\UserDto.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\DTO\\UserDto.cs",
+              "RelativeToolTip": "LibraryBackend\\DTO\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:22:08.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Model\\LibraryDbContext.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Model\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryBackend\\Model\\LibraryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:11:59.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250704152528_newmigration.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Migrations\\20250704152528_newmigration.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Migrations\\20250704152528_newmigration.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Migrations\\20250704152528_newmigration.cs",
+              "RelativeToolTip": "LibraryBackend\\Migrations\\20250704152528_newmigration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T15:25:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryBackend\\Program.cs",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\Program.cs",
+              "RelativeToolTip": "LibraryBackend\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T14:02:30.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.net\\LibraryBackend\\LibraryBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryBackend\\appsettings.json",
+              "ToolTip": "D:\\.net\\LibraryBackend\\LibraryBackend\\appsettings.json",
+              "RelativeToolTip": "LibraryBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-04T14:40:21.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
